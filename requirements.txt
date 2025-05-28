@@ -1,0 +1,15 @@
+# Core
+pandas
+requests
+openpyxl
+uuid
+
+# Flask API
+Flask
+Flask-Cors
+
+# Streamlit Apps (Admin & Feedback)
+streamlit
+
+# Optional (for local testing or expansion)
+python-dotenv
