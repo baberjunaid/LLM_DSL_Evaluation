@@ -141,6 +141,16 @@ For prompt formatting inside descriptions, use the `<prompt>...</prompt>` block 
 
 ---
 
+## 📝 Related Publication
+
+**Paper Title:** From Text to DSL: Evaluating Grammar-Based Model Generation Using Open LLMs
+
+**Authors:** Junaid Baber, Nicolas Hili, Didier Schwab, Leo Challier, and Cecilia Satrin
+
+**Status:** Uder Review
+
+---
+
 ## 📬 Contributions
 
 Feel free to fork, raise issues, or suggest enhancements. This repo aims to streamline prompt-based DSL evaluation at scale using LLMs.
